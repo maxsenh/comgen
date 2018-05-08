@@ -25,6 +25,6 @@ for aSingleBlastRecord in listOfBlastRecords:
 		
 		print (">" + title	)
 		print (alignment.hsps [0].sbjct)
-		outputfile.write(">" + title)
-		outputfile.write(alignment.hsps [0].sbjct)
+		outputfile.write(">" + title+"\n")
+		outputfile.write(alignment.hsps [0].sbjct+"\n")
 outputfile.close()
