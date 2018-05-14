@@ -59,7 +59,7 @@ def FASTA_finder(filename):
         for fake_orf in cluster_raw_list[i]:
             #print(fake_orf.strip("./ /n"))
             if (">./" + fake_orf.strip("./ \n")) in bigdict:
-                FASTA_cluster.write(fake_orf.strip("./ \n") + "\n")
+                FASTA_cluster.write(">"+fake_orf.strip("./ \n") + "\n")
                 FASTA_cluster.write(bigdict[">./" + fake_orf.strip("./ \n")] + "\n")
             #cluster_raw_list.append(line.split("./"))
     """flat_cluster_list = [item for sublist in cluster_raw_list for item in sublist]
