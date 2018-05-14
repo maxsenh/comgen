@@ -24,7 +24,7 @@ for aSingleBlastRecord in listOfBlastRecords:
 		alignment = aSingleBlastRecord.alignments [i]
 		title = re.compile ("gnl\|BL_ORD_ID\|\d* ").sub ("", description.title)
 		query = aSingleBlastRecord.query
-		writefile.write("%s : %s : %s : %s"%(query,alignment.hsps[0].query,title,alignment.hsps[0].sbjct))
+		writefile.write("%s %s %s %s\n"%(query,alignment.hsps[0].query,title,alignment.hsps[0].sbjct))
 		
 		#print("%s : %s : %s : %s"%(query,alignment.hsps[0].query,title,alignment.hsps[0].sbjct))
 		
