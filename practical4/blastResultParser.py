@@ -10,10 +10,11 @@ import re
 from Bio.Blast import NCBIXML
 
 blastOutputXMLFile = sys.argv [1]
+output = sys.argv [2]
 
 
 blastOutputXMLHandle = open (blastOutputXMLFile)
-
+writefile=open(output,"w")
 listOfBlastRecords = NCBIXML.parse (blastOutputXMLHandle)
 for aSingleBlastRecord in listOfBlastRecords:
 
@@ -23,7 +24,9 @@ for aSingleBlastRecord in listOfBlastRecords:
 		alignment = aSingleBlastRecord.alignments [i]
 		title = re.compile ("gnl\|BL_ORD_ID\|\d* ").sub ("", description.title)
 		query = aSingleBlastRecord.query
+		writefile.write("%s : %s : %s : %s"%(query,alignment.hsps[0].query,title,alignment.hsps[0].sbjct))
 		
-		print("%s : %s : %s : %s"%(query,alignment.hsps[0].query,title,alignment.hsps[0].sbjct))
-
+		#print("%s : %s : %s : %s"%(query,alignment.hsps[0].query,title,alignment.hsps[0].sbjct))
+		
 		break
+writefile.close()
