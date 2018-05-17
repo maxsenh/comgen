@@ -18,6 +18,7 @@ def parse(inputfile,outputfile):
 		x,y=line.split()
 		out.write(y)
 	ind.close()
+	out.write("\n")
 	out.close()
 	
 parse(sys.argv[1],sys.argv[2])
