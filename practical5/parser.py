@@ -10,6 +10,8 @@ import sys, re
 def parse(inputfile,outputfile):
 	ind=open(inputfile)
 	out=open(outputfile,"w")
+	m=input("write file: ")
+	out.write(">"+m+".fa.txt\n")
 	nr2=[]
 	seq2=[]
 	for line in ind:
