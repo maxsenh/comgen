@@ -89,7 +89,7 @@ id = 1
 
 for geneList in geneLists:
 
-	print "Genome ", id, ":"
+	print ">Genome ", id, ":"
 
 	genes = geneList.split (" ")
 
