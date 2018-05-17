@@ -46,4 +46,4 @@ for aGene in geneOrderList:
 
 	if partOfCluster.has_key (aGene):
 
-		print partOfCluster [aGene] ,
+		print (partOfCluster [aGene])
