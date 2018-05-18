@@ -1,0 +1,2766 @@
+# BLASTP 2.2.31+
+# Query: 00001  354 1709  len=1353
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00002  3408 2251  len=1155
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00003  8548 7361  len=1185
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00004  9992 8805  len=1185
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00005  18488 14580  len=3906
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00005	Q7UU38	31.25	112	67	4	1879	1987	960	1064	1.9	32.0
+# BLASTP 2.2.31+
+# Query: 00006  19006 20142  len=1134
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00007  22563 20734  len=1827
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00008  23262 24239  len=975
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00008	Q7UM44	23.23	155	84	5	188	326	121	256	1.8	29.6
+00008	Q7UJ62	30.00	70	41	2	905	966	23	92	2.8	29.3
+# BLASTP 2.2.31+
+# Query: 00009  27991 26228  len=1761
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00010  29581 28361  len=1218
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00011  30143 33031  len=2886
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00012  33083 34486  len=1401
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00013  38423 37605  len=816
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00013	Q7UNK9	42.31	52	29	1	567	617	23	74	0.060	33.9
+00013	Q7URH1	30.09	113	54	6	588	684	62	165	5.3	27.7
+# BLASTP 2.2.31+
+# Query: 00014  40585 39266  len=1317
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00015  40806 41813  len=1005
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00015	Q7UI56	33.77	77	42	4	451	524	138	208	0.95	30.4
+# BLASTP 2.2.31+
+# Query: 00016  42194 44221  len=2025
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00017  44218 46437  len=2217
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00017	Q7UQJ9	39.34	61	36	1	1621	1680	578	638	3.8	30.0
+# BLASTP 2.2.31+
+# Query: 00018  47510 46527  len=981
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00019  52122 53063  len=939
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00020  54136 53060  len=1074
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00021  55255 54290  len=963
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00022  56639 55341  len=1296
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00023  57376 58359  len=981
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00024  58356 59087  len=729
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00025  60092 59070  len=1020
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00025	Q7UZ24	29.33	75	42	3	833	901	2	71	9.7	26.6
+# BLASTP 2.2.31+
+# Query: 00026  62442 64025  len=1581
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00026	Q7UR11	29.51	61	39	2	1178	1238	83	139	1.1	30.4
+# BLASTP 2.2.31+
+# Query: 00027  64181 65560  len=1377
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00028  66420 65548  len=870
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00028	Q7UXW4	29.87	77	44	2	781	857	117	183	5.1	28.1
+# BLASTP 2.2.31+
+# Query: 00029  68413 67283  len=1128
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00029	Q7UVG3	27.01	137	87	4	791	918	60	192	0.019	36.2
+# BLASTP 2.2.31+
+# Query: 00030  71733 73787  len=2052
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00031  73784 74746  len=960
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00032  77002 74750  len=2250
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00033  79316 80905  len=1587
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00034  84333 81358  len=2973
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00034	Q7UTJ2	28.57	56	35	1	2120	2170	9	64	5.4	27.7
+# BLASTP 2.2.31+
+# Query: 00035  85808 84330  len=1476
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00036  87675 86320  len=1353
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00037  91174 90152  len=1020
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00038  91206 92111  len=903
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00039  93828 92122  len=1704
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00040  95102 93927  len=1173
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00040	Q7UY44	26.47	102	66	2	9	110	1721	1813	0.021	36.6
+# BLASTP 2.2.31+
+# Query: 00041  97796 95106  len=2688
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00042  98758 97793  len=963
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00043  99987 98758  len=1227
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00044  100184 102349  len=2163
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00045  103102 104523  len=1419
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00046  108191 106812  len=1377
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00047  114675 116840  len=2163
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00048  119923 116825  len=3096
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00048	Q7UNP4	27.54	69	36	2	1927	1981	11	79	8.7	29.3
+# BLASTP 2.2.31+
+# Query: 00049  122957 119913  len=3042
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00050  123052 126147  len=3093
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00051  129495 128239  len=1254
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00052  131719 130031  len=1686
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00053  134068 131765  len=2301
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00054  135055 135879  len=822
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00055  137016 135895  len=1119
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00056  138143 137133  len=1008
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00057  141233 138825  len=2406
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00058  142804 141383  len=1419
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00059  145675 142943  len=2730
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00060  147250 147996  len=744
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00061  148001 148783  len=780
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00062  150911 149634  len=1275
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00063  152244 150919  len=1323
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00063	Q7UMB0	22.64	159	106	7	462	609	169	321	7.0	28.1
+# BLASTP 2.2.31+
+# Query: 00064  152387 153697  len=1308
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00064	Q7UI79	27.84	97	62	2	843	936	40	131	6.2	28.5
+# BLASTP 2.2.31+
+# Query: 00065  155241 153817  len=1422
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00066  156921 155386  len=1533
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00067  161779 161099  len=678
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00067	Q7UGX6	28.57	42	30	0	479	520	9	50	1.6	28.9
+00067	Q7UG88	27.78	72	45	2	154	225	109	173	8.9	26.9
+# BLASTP 2.2.31+
+# Query: 00068  161981 164458  len=2475
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00069  164547 166460  len=1911
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00070  167228 168559  len=1329
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00070	Q7UKG9	35.14	37	24	0	864	900	222	258	4.9	28.5
+# BLASTP 2.2.31+
+# Query: 00071  168695 169690  len=993
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00072  170686 169889  len=795
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00073  170695 173958  len=3261
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00074  173955 175646  len=1689
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00074	P59825	34.29	35	23	0	959	993	198	232	5.4	28.9
+# BLASTP 2.2.31+
+# Query: 00075  175728 176942  len=1212
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00075	Q7URP3	22.62	84	53	4	232	312	87	161	7.0	28.1
+# BLASTP 2.2.31+
+# Query: 00076  177936 177067  len=867
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00077  178013 179317  len=1302
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00078  179912 180919  len=1005
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00079  184071 185015  len=942
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00080  185012 186454  len=1440
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00081  186533 188005  len=1470
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00082  187986 192920  len=4932
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00083  192951 194993  len=2040
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00084  195176 196429  len=1251
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00085  196524 197954  len=1428
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00086  198004 198918  len=912
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00087  199005 200015  len=1008
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00088  200052 201485  len=1431
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00088	Q7UDU8	37.74	53	31	1	701	753	7776	7826	2.0	30.4
+# BLASTP 2.2.31+
+# Query: 00089  201482 202771  len=1287
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00089	Q7UHN2	43.55	62	25	3	1146	1199	83	142	5.1	28.1
+# BLASTP 2.2.31+
+# Query: 00090  202880 204265  len=1383
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00091  204734 206335  len=1599
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00092  208204 206354  len=1848
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00093  208570 221334  len=12762
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00094  221547 222533  len=984
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00095  225689 222576  len=3111
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00096  228114 229010  len=894
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00097  229981 229028  len=951
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00098  230095 231150  len=1053
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00099  231194 233107  len=1911
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00100  239019 235450  len=3567
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00101  240313 241350  len=1035
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00102  242045 243979  len=1932
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00103  245326 247029  len=1701
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00104  249776 251071  len=1293
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00105  251068 252396  len=1326
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00106  255909 254875  len=1032
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00107  257926 256085  len=1839
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00108  258630 257923  len=705
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00109  259584 258631  len=951
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00110  260915 261730  len=813
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00111  265432 266754  len=1320
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00112  266984 267829  len=843
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00113  268804 267962  len=840
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00113	Q7UG76	31.25	80	46	4	746	817	4	82	0.11	33.5
+# BLASTP 2.2.31+
+# Query: 00114  269827 270576  len=747
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00115  272317 270641  len=1674
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00116  279529 280278  len=747
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00117  284569 285249  len=678
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00118  289668 286375  len=3291
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00119  293470 290324  len=3144
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00120  293625 294794  len=1167
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00121  296293 294824  len=1467
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00122  297659 296532  len=1125
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00122	Q7UI56	28.43	102	55	6	77	169	154	246	9.5	27.3
+# BLASTP 2.2.31+
+# Query: 00123  297762 298952  len=1188
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00123	Q7UH79	33.33	48	30	1	799	846	22	67	0.61	29.6
+# BLASTP 2.2.31+
+# Query: 00124  299056 300444  len=1386
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00125  306831 305419  len=1410
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00126  307857 307063  len=792
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00127  309170 307860  len=1308
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00128  310449 311498  len=1047
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00129  311992 312777  len=783
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00129	Q7UL27	31.15	61	37	1	274	334	56	111	0.14	32.3
+# BLASTP 2.2.31+
+# Query: 00130  312788 313471  len=681
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00131  313546 315069  len=1521
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00132  315091 315981  len=888
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00133  318620 319528  len=906
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00134  320445 321173  len=726
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00135  327715 328875  len=1158
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00135	Q7UL62	29.17	72	39	2	85	151	4	68	3.6	28.5
+# BLASTP 2.2.31+
+# Query: 00136  330278 328938  len=1338
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00137  331514 330279  len=1233
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00138  331568 333013  len=1443
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00138	Q7UI46	34.15	41	23	1	581	617	885	925	6.2	28.9
+# BLASTP 2.2.31+
+# Query: 00139  333082 334671  len=1587
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00140  335524 337257  len=1731
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00140	Q7URH1	19.48	154	101	5	475	615	162	305	8.5	28.1
+# BLASTP 2.2.31+
+# Query: 00141  337272 338789  len=1515
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00142  339808 338816  len=990
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00143  339834 341564  len=1728
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00144  345076 346236  len=1158
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00145  346346 347359  len=1011
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00146  347443 348249  len=804
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00147  348274 349143  len=867
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00148  351130 350060  len=1068
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00149  352723 351161  len=1560
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00150  353906 353022  len=882
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00151  355659 354046  len=1611
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00152  358246 357167  len=1077
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00152	Q7US10	41.03	39	23	0	1009	1047	9	47	6.4	28.1
+# BLASTP 2.2.31+
+# Query: 00153  359000 358284  len=714
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00154  359104 360534  len=1428
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00155  362762 361851  len=909
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00155	Q7UEU2	28.12	64	37	2	565	627	226	281	2.7	28.9
+# BLASTP 2.2.31+
+# Query: 00156  363336 365081  len=1743
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00157  366117 365191  len=924
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00158  371690 372739  len=1047
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00159  372821 373747  len=924
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00159	Q7UL77	19.59	148	100	6	213	349	42	181	3.2	28.9
+# BLASTP 2.2.31+
+# Query: 00160  375094 373754  len=1338
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00160	Q7URH1	20.18	109	79	3	254	355	144	251	3.6	29.3
+# BLASTP 2.2.31+
+# Query: 00161  376678 375221  len=1455
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00162  378100 376691  len=1407
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00163  381609 382988  len=1377
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00163	Q7URH6	27.78	126	79	5	12	126	1369	1493	1.5	30.8
+00163	Q7UEV0	32.05	78	42	3	711	786	51	119	9.4	27.7
+# BLASTP 2.2.31+
+# Query: 00164  382985 384352  len=1365
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00165  384510 386297  len=1785
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00165	Q7UJM0	34.48	58	31	2	152	204	103	158	8.2	28.1
+# BLASTP 2.2.31+
+# Query: 00166  387373 386690  len=681
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00167  388633 387380  len=1251
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00167	Q7UPM9	33.90	59	33	2	71	128	256	309	0.76	31.2
+00167	Q7UWM5	29.21	89	49	4	611	688	395	480	5.1	28.9
+# BLASTP 2.2.31+
+# Query: 00168  391212 388630  len=2580
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00169  393265 391604  len=1659
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00170  394080 393346  len=732
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00171  395537 394077  len=1458
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00172  397096 395537  len=1557
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00173  399380 398553  len=825
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00174  400636 402546  len=1908
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00175  403975 403124  len=849
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00176  404155 404997  len=840
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00177  405058 406458  len=1398
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00178  406601 409840  len=3237
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00179  412887 410560  len=2325
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00180  413612 412884  len=726
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00181  415267 414374  len=891
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00182  416138 416971  len=831
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00182	Q7UJS9	29.41	85	49	4	329	405	20	101	8.9	26.2
+# BLASTP 2.2.31+
+# Query: 00183  417042 419123  len=2079
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00183	Q7UJM4	36.54	52	33	0	115	166	148	199	0.012	37.4
+# BLASTP 2.2.31+
+# Query: 00184  419104 419772  len=666
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00184	Q7UQ24	25.58	86	58	2	97	179	152	234	4.5	27.7
+# BLASTP 2.2.31+
+# Query: 00185  422792 419880  len=2910
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00186  425458 426906  len=1446
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+00186	Q7UMV4	18.33	180	111	7	940	1085	1294	1471	0.31	33.1
+00186	Q7UMT4	39.29	28	17	0	429	456	44	71	6.0	28.9
+00186	Q7URA2	34.09	44	24	1	785	828	53	91	8.9	28.1
+# BLASTP 2.2.31+
+# Query: 00187  427118 429475  len=2355
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00188  432795 434207  len=1410
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00189  435981 435136  len=843
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00190  437683 436340  len=1341
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00191  438787 437753  len=1032
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00192  440167 438824  len=1341
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00193  441199 440216  len=981
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00194  442267 441326  len=939
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00195  443154 442264  len=888
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00196  444236 443154  len=1080
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00197  445120 444230  len=888
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00198  446891 445311  len=1578
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00199  449125 447239  len=1884
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00200  449429 455671  len=6240
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00201  455737 458226  len=2487
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00201	Q7USQ0	28.21	78	51	1	547	619	2544	2621	8.8	29.3
+# BLASTP 2.2.31+
+# Query: 00202  458230 459390  len=1158
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00203  459383 460180  len=795
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00204  460239 461519  len=1278
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00205  463801 462344  len=1455
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00206  465236 463815  len=1419
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00207  465511 466485  len=972
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00208  466556 467845  len=1287
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00208	Q7UI56	32.94	85	45	4	816	897	141	216	6.8	28.1
+# BLASTP 2.2.31+
+# Query: 00209  469073 469936  len=861
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00210  470439 472985  len=2544
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00211  472995 473960  len=963
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00212  474038 476275  len=2235
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00213  477098 480106  len=3006
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00214  488021 489394  len=1371
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00214	Q7UE44	26.09	92	48	4	49	120	421	512	1.4	30.8
+# BLASTP 2.2.31+
+# Query: 00215  489630 491552  len=1920
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00215	Q7UJ63	23.31	133	83	7	379	502	7	129	2.3	29.3
+# BLASTP 2.2.31+
+# Query: 00216  492787 492098  len=687
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00217  497665 496721  len=942
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00218  497950 499317  len=1365
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00219  505827 504304  len=1521
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00219	Q7UU79	25.23	111	66	6	1107	1212	392	490	9.5	28.1
+# BLASTP 2.2.31+
+# Query: 00220  506841 506134  len=705
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00221  507840 506851  len=987
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00222  508825 507845  len=978
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00223  511249 512925  len=1674
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00224  514115 513099  len=1014
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00225  514534 515418  len=882
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00226  515460 517469  len=2007
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00227  517558 518412  len=852
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00227	Q7URM2	34.29	35	23	0	412	446	171	205	4.8	27.7
+00227	Q7UJH2	40.74	27	16	0	706	732	66	92	9.1	25.8
+# BLASTP 2.2.31+
+# Query: 00228  520414 518849  len=1563
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00228	Q7UTK3	37.84	37	23	0	313	349	19	55	5.1	26.6
+# BLASTP 2.2.31+
+# Query: 00229  523215 520411  len=2802
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00230  525494 524043  len=1449
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00231  526342 525539  len=801
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00232  529824 528496  len=1326
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00233  530700 531854  len=1152
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00234  535235 536449  len=1212
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00235  536434 537114  len=678
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00236  537219 538916  len=1695
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00237  540262 538913  len=1347
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00238  544044 540544  len=3498
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00239  549816 548086  len=1728
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00240  550872 552608  len=1734
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00241  553774 552665  len=1107
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00242  556947 557819  len=870
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00243  558859 560430  len=1569
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00244  560427 561890  len=1461
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00244	Q7UR07	29.51	61	42	1	1207	1266	16	76	1.8	28.1
+# BLASTP 2.2.31+
+# Query: 00245  561877 562974  len=1095
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00245	Q7TU10	37.84	37	23	0	927	963	44	80	6.6	28.1
+# BLASTP 2.2.31+
+# Query: 00246  565054 566718  len=1662
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00247  566765 575359  len=8592
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00248  579247 578054  len=1191
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00249  580924 579302  len=1620
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00250  582029 581301  len=726
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00251  584321 583200  len=1119
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00251	Q7UVG3	23.23	99	66	2	955	1053	3	91	8.2	27.7
+# BLASTP 2.2.31+
+# Query: 00252  585607 584318  len=1287
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00252	Q7UR11	27.66	94	64	3	1109	1201	105	195	3.2	28.9
+# BLASTP 2.2.31+
+# Query: 00253  592722 589594  len=3126
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00254  594570 592897  len=1671
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00255  595904 594567  len=1335
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00256  597820 595901  len=1917
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00257  598018 601017  len=2997
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00258  602441 601509  len=930
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00258	Q7UJF4	33.33	69	43	2	305	371	185	252	0.38	31.6
+# BLASTP 2.2.31+
+# Query: 00259  603541 602762  len=777
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00260  605148 604138  len=1008
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00260	Q7UMM8	39.47	38	23	0	117	154	12	49	6.7	27.7
+# BLASTP 2.2.31+
+# Query: 00261  608112 607144  len=966
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00262  609092 610159  len=1065
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00263  610899 614936  len=4035
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00264  614933 615895  len=960
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00264	Q7UU38	36.07	61	32	3	522	577	2439	2497	6.7	28.1
+# BLASTP 2.2.31+
+# Query: 00265  616211 617506  len=1293
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00266  617557 618891  len=1332
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00267  619923 620669  len=744
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00268  621259 622038  len=777
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00269  622082 622861  len=777
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00270  625571 624009  len=1560
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00270	Q7UKB0	30.36	56	32	2	953	1001	1	56	6.0	26.6
+# BLASTP 2.2.31+
+# Query: 00271  626614 625568  len=1044
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00272  628013 629011  len=996
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00273  629145 630518  len=1371
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+00273	Q7UMF8	23.47	98	66	4	510	600	135	230	0.015	36.6
+00273	Q7UWN4	28.38	74	46	2	253	319	325	398	1.6	30.4
+00273	Q7URA2	27.84	97	58	3	940	1029	509	600	2.8	29.6
+# BLASTP 2.2.31+
+# Query: 00274  631459 633213  len=1752
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00275  633584 634405  len=819
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00276  634446 635252  len=804
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00277  635256 636689  len=1431
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00278  636671 637576  len=903
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00279  639932 640711  len=777
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00280  640733 641662  len=927
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00281  648213 650339  len=2124
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00282  650715 651836  len=1119
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00283  653983 652697  len=1284
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00284  654547 655956  len=1407
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00284	P59814	25.64	78	48	2	316	392	137	205	1.6	30.4
+# BLASTP 2.2.31+
+# Query: 00285  658735 656243  len=2490
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00286  658718 661291  len=2571
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00287  661352 662848  len=1494
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00287	Q7UHI8	26.83	41	29	1	210	249	37	77	7.1	26.2
+00287	Q7UTQ5	30.77	91	52	4	1087	1176	419	499	10.0	28.1
+# BLASTP 2.2.31+
+# Query: 00288  663248 664315  len=1065
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00289  664554 667805  len=3249
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00290  667924 669657  len=1731
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00291  670379 671836  len=1455
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00291	Q7UXW4	27.35	117	62	5	492	603	68	166	3.3	29.6
+# BLASTP 2.2.31+
+# Query: 00292  671891 673414  len=1521
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00293  675284 673851  len=1431
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00294  678230 675315  len=2913
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00295  678253 680250  len=1995
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00296  680467 681987  len=1518
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00297  684331 682568  len=1761
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00298  686024 687661  len=1635
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00299  687658 689118  len=1458
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00300  689330 690688  len=1356
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00300	Q7URA2	48.48	33	17	0	484	516	37	69	8.4	28.1
+# BLASTP 2.2.31+
+# Query: 00301  690885 691793  len=906
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00302  692604 694265  len=1659
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00303  702644 705406  len=2760
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00304  707079 705409  len=1668
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00305  708924 707590  len=1332
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00306  710153 708921  len=1230
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00307  711591 710146  len=1443
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00307	Q7UJB4	29.17	72	50	1	1113	1183	106	177	1.1	30.8
+# BLASTP 2.2.31+
+# Query: 00308  712721 711588  len=1131
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00309  713893 712838  len=1053
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00310  715279 714485  len=792
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00311  721405 720272  len=1131
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00311	Q7UF08	24.09	137	86	4	665	783	1673	1809	1.7	30.4
+# BLASTP 2.2.31+
+# Query: 00312  721482 722447  len=963
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00313  723705 722536  len=1167
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00314  725231 723702  len=1527
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00315  729441 728416  len=1023
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00316  729911 730717  len=804
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00317  730829 732067  len=1236
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00318  734412 732211  len=2199
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00318	Q7UX21	31.58	76	45	3	421	494	42	112	7.2	27.7
+# BLASTP 2.2.31+
+# Query: 00319  735137 736054  len=915
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00320  742896 743903  len=1005
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00321  745423 744470  len=951
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00322  745611 748256  len=2643
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00323  748887 749600  len=711
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00323	Q7UVV3	28.99	69	43	3	542	604	128	196	4.3	28.1
+# BLASTP 2.2.31+
+# Query: 00324  757082 749667  len=7413
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00325  757340 758161  len=819
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00326  759311 758166  len=1143
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00327  760944 761783  len=837
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00328  761879 762787  len=906
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00329  762881 766393  len=3510
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00330  766941 769154  len=2211
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00331  770380 769193  len=1185
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00332  770812 772482  len=1668
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00333  772547 774151  len=1602
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00334  776757 778190  len=1431
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00335  778360 779430  len=1068
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00336  779444 780613  len=1167
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00337  780624 781598  len=972
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00338  781595 782476  len=879
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00339  782509 783741  len=1230
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00340  784937 783753  len=1182
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00341  785097 785882  len=783
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00341	Q7UTR8	25.00	84	50	4	562	637	15	93	3.8	27.3
+# BLASTP 2.2.31+
+# Query: 00342  786480 787229  len=747
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00343  787210 789225  len=2013
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00344  791850 789592  len=2256
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00344	Q7ULT4	32.43	37	25	0	636	672	7	43	4.8	27.3
+00344	Q7UZE8	29.31	58	37	2	917	974	79	132	7.2	29.3
+# BLASTP 2.2.31+
+# Query: 00345  796656 795748  len=906
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00345	Q7UMN3	28.81	59	41	1	249	306	196	254	7.1	27.3
+# BLASTP 2.2.31+
+# Query: 00346  801145 803946  len=2799
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00347  804010 805416  len=1404
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00348  806255 807631  len=1374
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00349  812455 809711  len=2742
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00349	Q7UM60	19.24	291	180	16	1920	2164	175	456	2.1	31.2
+# BLASTP 2.2.31+
+# Query: 00350  813778 812489  len=1287
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00351  814849 813785  len=1062
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00352  815147 815887  len=738
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00353  816288 817415  len=1125
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00354  817733 818755  len=1020
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00355  818827 819678  len=849
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00356  820482 822416  len=1932
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00357  824312 823365  len=945
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00358  825748 824342  len=1404
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00359  827734 826565  len=1167
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00359	Q7UK75	36.00	50	31	1	990	1038	47	96	7.2	27.7
+# BLASTP 2.2.31+
+# Query: 00360  836606 837598  len=990
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00361  840478 837722  len=2754
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00362  843242 845821  len=2577
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00363  845844 847397  len=1551
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00363	Q7UZ29	36.54	52	30	2	762	812	221	270	3.5	29.6
+# BLASTP 2.2.31+
+# Query: 00364  849176 847425  len=1749
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00364	Q7UJP5	29.47	95	58	3	1280	1366	8	101	2.1	28.5
+# BLASTP 2.2.31+
+# Query: 00365  851887 852963  len=1074
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00366  853011 854501  len=1488
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00367  856715 854700  len=2013
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00368  858115 857045  len=1068
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00369  859741 858128  len=1611
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00369	Q7UG76	24.41	127	62	8	509	610	2	119	6.5	28.9
+# BLASTP 2.2.31+
+# Query: 00370  860505 862178  len=1671
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00370	Q7UK30	34.15	41	27	0	640	680	17	57	0.79	29.3
+00370	Q7UGV8	36.84	38	22	1	1395	1430	14	51	9.4	25.8
+# BLASTP 2.2.31+
+# Query: 00371  864187 864861  len=672
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00372  866418 865366  len=1050
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00373  867738 866431  len=1305
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00373	Q7UFJ4	41.67	36	19	1	509	542	263	298	9.8	27.7
+# BLASTP 2.2.31+
+# Query: 00374  869852 867825  len=2025
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00375  869941 871125  len=1182
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00376  875843 874893  len=948
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00377  877247 876147  len=1098
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00378  879808 881022  len=1212
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00379  882784 881078  len=1704
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00380  883019 886504  len=3483
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00381  889401 886501  len=2898
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00382  889538 890551  len=1011
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00383  890609 891928  len=1317
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00384  896794 895301  len=1491
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00385  898430 896808  len=1620
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00386  900393 898957  len=1434
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00387  901802 900570  len=1230
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00387	Q7UV47	41.18	34	20	0	1196	1229	1	34	2.8	29.3
+# BLASTP 2.2.31+
+# Query: 00388  903209 902184  len=1023
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00389  904655 903276  len=1377
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00390  904992 905855  len=861
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00391  910632 909184  len=1446
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00392  910873 912051  len=1176
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00393  912596 914194  len=1596
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00393	Q7UI56	26.52	132	75	5	1470	1595	101	216	0.45	32.0
+# BLASTP 2.2.31+
+# Query: 00394  914256 915023  len=765
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00395  917510 915198  len=2310
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00396  918802 917540  len=1260
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00397  921509 918894  len=2613
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00398  922711 921506  len=1203
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00399  922986 925454  len=2466
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00400  925553 926854  len=1299
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00401  927800 929089  len=1287
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00402  929386 932472  len=3084
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00403  933121 934266  len=1143
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00404  936669 935428  len=1239
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00405  937660 936701  len=957
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00406  942337 940829  len=1506
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00407  944924 946012  len=1086
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00408  949743 946363  len=3378
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00409  949969 951426  len=1455
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00409	Q7UW64	31.82	44	30	0	622	665	113	156	0.067	34.3
+# BLASTP 2.2.31+
+# Query: 00410  953270 952170  len=1098
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00411  953284 953979  len=693
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00411	Q7UIX3	26.88	93	46	3	207	299	39	109	2.6	27.3
+# BLASTP 2.2.31+
+# Query: 00412  961664 963325  len=1659
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00412	Q7UHP9	29.58	71	39	2	745	814	10	70	6.7	28.5
+# BLASTP 2.2.31+
+# Query: 00413  964691 963342  len=1347
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00414  966872 964728  len=2142
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00414	Q7UWZ8	36.36	66	39	2	107	169	1102	1167	8.5	28.9
+# BLASTP 2.2.31+
+# Query: 00415  966873 967709  len=834
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00416  971308 972168  len=858
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00417  972165 973496  len=1329
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00417	Q7UF17	31.82	44	24	1	1229	1266	263	306	8.9	27.7
+00417	Q7USW6	31.71	41	28	0	979	1019	4	44	10.0	25.4
+# BLASTP 2.2.31+
+# Query: 00418  973649 975199  len=1548
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00419  980655 978598  len=2055
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00420  980856 981899  len=1041
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00420	Q7UIX3	27.36	106	60	5	400	499	15	109	3.2	27.7
+# BLASTP 2.2.31+
+# Query: 00421  982018 982698  len=678
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00422  983546 982731  len=813
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00423  984928 983549  len=1377
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00423	Q7UNP4	34.43	61	23	1	527	570	778	838	1.1	31.2
+00423	Q7UI56	26.61	124	63	6	572	690	142	242	2.9	29.3
+# BLASTP 2.2.31+
+# Query: 00424  986443 985019  len=1422
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00425  987850 986696  len=1152
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00426  988613 989299  len=684
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00427  991186 989654  len=1530
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00428  992732 991854  len=876
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00429  992787 994556  len=1767
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00430  1001140 1002300  len=1158
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00431  1002683 1004923  len=2238
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00431	Q7UWN5	29.08	141	88	5	445	583	370	500	0.32	33.5
+# BLASTP 2.2.31+
+# Query: 00432  1006742 1005009  len=1731
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00433  1008888 1007728  len=1158
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00434  1010097 1009324  len=771
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00435  1013749 1010078  len=3669
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00435	Q7UHN1	23.29	73	56	0	2395	2467	4	76	3.2	30.0
+# BLASTP 2.2.31+
+# Query: 00436  1013836 1015869  len=2031
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00436	Q7UUJ7	30.16	63	43	1	630	692	67	128	9.9	28.5
+# BLASTP 2.2.31+
+# Query: 00437  1016941 1016099  len=840
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00438  1018970 1017315  len=1653
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00439  1021733 1020705  len=1026
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00440  1023116 1022352  len=762
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00441  1024180 1023113  len=1065
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00442  1025267 1027918  len=2649
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00443  1028829 1028035  len=792
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00444  1033503 1031458  len=2043
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00445  1034738 1033695  len=1041
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00446  1035921 1036961  len=1038
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00447  1038102 1040117  len=2013
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00447	Q7URH1	25.40	189	99	10	327	475	62	248	6.7	28.9
+# BLASTP 2.2.31+
+# Query: 00448  1041681 1040149  len=1530
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00448	Q7UU38	27.95	161	99	4	1239	1395	2716	2863	0.68	32.0
+# BLASTP 2.2.31+
+# Query: 00449  1042569 1041685  len=882
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00450  1043459 1042569  len=888
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00450	Q7UJB6	23.94	71	51	2	544	611	317	387	5.7	28.1
+# BLASTP 2.2.31+
+# Query: 00451  1045599 1043740  len=1857
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00451	Q7UW71	46.88	32	17	0	813	844	1257	1288	1.8	30.8
+# BLASTP 2.2.31+
+# Query: 00452  1048517 1049413  len=894
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00452	Q7UPG1	48.48	33	13	2	34	66	98	126	9.3	27.3
+# BLASTP 2.2.31+
+# Query: 00453  1050686 1049430  len=1254
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+00453	Q7UGQ1	28.79	66	46	1	626	691	29	93	0.72	30.4
+00453	Q7UU38	25.64	117	72	4	407	511	2506	2619	8.4	28.1
+# BLASTP 2.2.31+
+# Query: 00454  1051477 1050686  len=789
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00455  1053354 1051858  len=1494
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00456  1056833 1053501  len=3330
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00457  1057376 1058710  len=1332
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00458  1059512 1064020  len=4506
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00459  1065807 1064164  len=1641
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00460  1068747 1069730  len=981
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00461  1069840 1070901  len=1059
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00462  1071916 1070960  len=954
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00462	Q7USQ0	33.33	102	62	4	374	471	543	642	3.6	28.9
+# BLASTP 2.2.31+
+# Query: 00463  1072885 1071968  len=915
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00464  1072870 1073901  len=1029
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00465  1075676 1074462  len=1212
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00466  1076566 1075736  len=828
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00466	Q7UME6	44.00	25	14	0	625	649	21	45	9.0	26.9
+# BLASTP 2.2.31+
+# Query: 00467  1079092 1080240  len=1146
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00468  1080237 1082621  len=2382
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00469  1083199 1084491  len=1290
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00470  1084564 1086468  len=1902
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00470	Q7ULY1	35.42	48	27	1	1769	1816	128	171	0.10	34.3
+# BLASTP 2.2.31+
+# Query: 00471  1086539 1088041  len=1500
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00472  1089091 1088048  len=1041
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00473  1090390 1091214  len=822
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00474  1093065 1091257  len=1806
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00475  1095258 1093138  len=2118
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00475	Q7URH1	33.33	93	41	4	1342	1419	51	137	4.5	29.3
+# BLASTP 2.2.31+
+# Query: 00476  1097262 1096231  len=1029
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00477  1098574 1099839  len=1263
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00478  1100675 1102321  len=1644
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00479  1103246 1104760  len=1512
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00480  1104820 1108212  len=3390
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00481  1110366 1109032  len=1332
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00482  1111924 1110587  len=1335
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00483  1112820 1113536  len=714
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00484  1113589 1114569  len=978
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00485  1115839 1114616  len=1221
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00486  1122614 1121823  len=789
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00487  1123769 1122618  len=1149
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00488  1128829 1127285  len=1542
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00488	Q7UI79	28.83	111	51	7	1243	1349	113	199	7.2	28.5
+# BLASTP 2.2.31+
+# Query: 00489  1130036 1128918  len=1116
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00490  1131421 1130123  len=1296
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00491  1136281 1135187  len=1092
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00492  1136613 1137284  len=669
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00492	Q7UJM0	35.29	51	31	1	546	596	109	157	9.3	26.6
+# BLASTP 2.2.31+
+# Query: 00493  1137576 1138997  len=1419
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00494  1141601 1142629  len=1026
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00494	Q7UVF4	31.58	38	26	0	637	674	22	59	7.0	27.7
+# BLASTP 2.2.31+
+# Query: 00495  1145478 1143259  len=2217
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00496  1149797 1148754  len=1041
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00497  1152346 1151540  len=804
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00498  1156902 1159403  len=2499
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00499  1159816 1160487  len=669
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00500  1160530 1161624  len=1092
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00500	Q7UNK9	37.93	87	48	2	1005	1090	110	191	4.3	28.5
+# BLASTP 2.2.31+
+# Query: 00501  1163474 1162263  len=1209
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00502  1163473 1164459  len=984
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00503  1166178 1164823  len=1353
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00504  1167782 1168708  len=924
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00505  1168896 1169945  len=1047
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00506  1173641 1174828  len=1185
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00507  1174915 1176396  len=1479
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00508  1186117 1185296  len=819
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00509  1187087 1186227  len=858
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00509	Q7UH03	30.95	42	26	1	551	589	11	52	1.9	26.9
+# BLASTP 2.2.31+
+# Query: 00510  1188202 1187084  len=1116
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00511  1189284 1188199  len=1083
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00512  1189706 1191292  len=1584
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00513  1192480 1191758  len=720
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00513	Q7UJ62	32.73	55	37	0	539	593	358	412	2.7	28.5
+# BLASTP 2.2.31+
+# Query: 00514  1192950 1194191  len=1239
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00514	Q7UYI9	21.33	75	53	1	118	192	4	72	3.7	28.1
+# BLASTP 2.2.31+
+# Query: 00515  1194742 1196301  len=1557
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00516  1196301 1197002  len=699
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00517  1197198 1198340  len=1140
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00518  1200339 1199551  len=786
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00519  1201772 1200663  len=1107
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00519	Q7UW09	22.06	68	45	1	296	363	19	78	3.9	26.6
+# BLASTP 2.2.31+
+# Query: 00520  1217898 1216708  len=1188
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00521  1218815 1217895  len=918
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00522  1219988 1223851  len=3861
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00523  1229133 1228057  len=1074
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00524  1231000 1229987  len=1011
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00524	Q7UG02	47.83	23	12	0	626	648	53	75	4.5	26.9
+# BLASTP 2.2.31+
+# Query: 00525  1231195 1234134  len=2937
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00526  1236406 1234244  len=2160
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00527  1238434 1236917  len=1515
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00528  1239704 1238544  len=1158
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00529  1240654 1239701  len=951
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00530  1241502 1240732  len=768
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00531  1241580 1242680  len=1098
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00531	Q7UNT3	33.33	42	26	1	454	495	73	112	5.3	27.3
+# BLASTP 2.2.31+
+# Query: 00532  1242668 1243501  len=831
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00532	Q7URH1	38.46	78	33	5	483	552	68	138	7.9	27.3
+# BLASTP 2.2.31+
+# Query: 00533  1246012 1244513  len=1497
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00533	Q7UJB6	22.09	86	61	2	498	581	309	390	6.5	28.5
+# BLASTP 2.2.31+
+# Query: 00534  1247539 1246127  len=1410
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00534	Q7UIX3	34.78	46	29	1	119	164	11	55	8.2	26.9
+# BLASTP 2.2.31+
+# Query: 00535  1249754 1248726  len=1026
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00536  1251037 1249757  len=1278
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00537  1253587 1254660  len=1071
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00538  1258973 1259659  len=684
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00539  1260663 1262456  len=1791
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00540  1262453 1265782  len=3327
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00541  1269391 1266266  len=3123
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00542  1272074 1273651  len=1575
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00543  1273726 1274916  len=1188
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00543	Q7UIT5	46.15	26	14	0	1091	1116	23	48	7.0	25.8
+# BLASTP 2.2.31+
+# Query: 00544  1276615 1277565  len=948
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00545  1277582 1279423  len=1839
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00546  1279632 1280933  len=1299
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00547  1281169 1282737  len=1566
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+00547	Q7UXQ4	44.12	34	19	0	947	980	27	60	0.66	30.4
+00547	Q7UTA3	44.12	34	19	0	947	980	27	60	1.4	30.8
+00547	Q7TTN7	44.12	34	19	0	947	980	27	60	1.5	30.4
+# BLASTP 2.2.31+
+# Query: 00548  1286068 1282766  len=3300
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00549  1287462 1286215  len=1245
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00550  1288435 1287482  len=951
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00551  1290640 1288457  len=2181
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00552  1290703 1292019  len=1314
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00552	Q7UTQ5	50.00	36	16	1	254	287	310	345	2.6	29.6
+# BLASTP 2.2.31+
+# Query: 00553  1292089 1293267  len=1176
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00554  1295231 1296442  len=1209
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00554	Q7UIU8	32.43	37	25	0	356	392	20	56	5.9	25.8
+# BLASTP 2.2.31+
+# Query: 00555  1296601 1298370  len=1767
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00556  1298467 1299696  len=1227
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00557  1299790 1301601  len=1809
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00558  1303147 1301627  len=1518
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00559  1304298 1303129  len=1167
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00560  1306800 1305634  len=1164
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00561  1308594 1309805  len=1209
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+00561	Q7ULG9	25.86	58	42	1	942	999	34	90	4.0	28.9
+00561	Q7UGU7	28.99	69	46	2	630	698	352	417	6.8	28.1
+00561	Q7UY13	30.26	76	47	1	929	998	23	98	7.5	28.1
+# BLASTP 2.2.31+
+# Query: 00562  1309809 1311509  len=1698
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00563  1317010 1315982  len=1026
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00564  1317089 1319917  len=2826
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00565  1320026 1321906  len=1878
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00566  1323132 1322197  len=933
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00567  1323246 1324568  len=1320
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00568  1325858 1325172  len=684
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00568	Q7UTP5	41.38	29	17	0	187	215	54	82	0.86	28.1
+# BLASTP 2.2.31+
+# Query: 00569  1327428 1325941  len=1485
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00570  1328232 1329530  len=1296
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00570	Q7UU38	26.61	109	77	3	537	644	2820	2926	2.9	29.6
+# BLASTP 2.2.31+
+# Query: 00571  1330252 1331538  len=1284
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00572  1331550 1332629  len=1077
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00572	Q7UG02	53.85	26	12	0	630	655	51	76	3.3	27.3
+# BLASTP 2.2.31+
+# Query: 00573  1335048 1336046  len=996
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00574  1337583 1336582  len=999
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00574	Q7UTQ5	38.10	42	26	0	214	255	294	335	3.9	28.9
+# BLASTP 2.2.31+
+# Query: 00575  1340472 1337680  len=2790
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00576  1349718 1350665  len=945
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00577  1353051 1351492  len=1557
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00578  1353249 1354631  len=1380
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00578	Q7UNC6	56.00	25	11	0	125	149	1	25	4.4	28.9
+# BLASTP 2.2.31+
+# Query: 00579  1357920 1358846  len=924
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00579	Q7UTT4	35.14	37	24	0	776	812	13	49	8.5	25.4
+# BLASTP 2.2.31+
+# Query: 00580  1361375 1358892  len=2481
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00581  1363108 1361372  len=1734
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00582  1364020 1363301  len=717
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00583  1365187 1364096  len=1089
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00584  1369791 1368256  len=1533
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00585  1371246 1370098  len=1146
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00586  1372351 1373490  len=1137
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00587  1373549 1374925  len=1374
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00587	Q7UET3	33.85	65	39	3	1069	1133	35	95	8.9	26.6
+# BLASTP 2.2.31+
+# Query: 00588  1375852 1374995  len=855
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00589  1375988 1377571  len=1581
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00589	Q7UTL3	30.14	73	41	2	239	308	130	195	8.9	28.1
+# BLASTP 2.2.31+
+# Query: 00590  1377568 1379028  len=1458
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00591  1379050 1381116  len=2064
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00592  1381098 1382159  len=1059
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00593  1382273 1382965  len=690
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00594  1382955 1384127  len=1170
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00595  1386324 1388915  len=2589
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00596  1388905 1390362  len=1455
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00597  1393164 1391146  len=2016
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00598  1396460 1399234  len=2772
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00599  1401939 1402850  len=909
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00600  1403933 1405330  len=1395
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00601  1408534 1407062  len=1470
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00602  1412921 1412031  len=888
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00603  1413369 1414484  len=1113
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00604  1414554 1417583  len=3027
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00605  1418217 1419320  len=1101
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00606  1420511 1419321  len=1188
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00607  1421779 1420685  len=1092
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00608  1424174 1422513  len=1659
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00609  1425217 1429002  len=3783
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00610  1429232 1433521  len=4287
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00611  1433809 1435251  len=1440
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00612  1435874 1437586  len=1710
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00613  1442151 1443653  len=1500
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00613	Q7UHM6	26.17	149	85	5	990	1117	17	161	0.47	31.6
+# BLASTP 2.2.31+
+# Query: 00614  1445196 1443763  len=1431
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00615  1447301 1445952  len=1347
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00616  1455371 1447434  len=7935
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00616	Q7UV31	33.33	63	36	3	4631	4692	63	120	6.6	30.8
+# BLASTP 2.2.31+
+# Query: 00617  1458063 1457257  len=804
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00618  1459186 1460367  len=1179
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00619  1460821 1461903  len=1080
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00619	Q7UHI8	39.29	28	17	0	661	688	34	61	8.0	25.8
+# BLASTP 2.2.31+
+# Query: 00620  1463506 1462475  len=1029
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00621  1464332 1463646  len=684
+# Database: 24390_16db
+# 0 hits found
+# BLASTP 2.2.31+
+# Query: 00622  1465163 1464357  len=804
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00622	Q7UVV8	19.40	67	45	2	692	758	78	135	5.4	27.7
+# BLASTP 2.2.31+
+# Query: 00623  1465660 1467147  len=1485
+# Database: 24390_16db
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+00623	Q7UVM9	50.00	34	15	1	918	949	74	107	5.8	27.3
+# BLASTP 2.2.31+
+# Query: 00624  1476084 1470730  len=5352
+# Database: 24390_16db
+# 0 hits found
