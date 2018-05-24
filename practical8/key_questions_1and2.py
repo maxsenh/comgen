@@ -1,12 +1,12 @@
 #script
 import matplotlib
 matplotlib.use("Agg")
-import gzip
 from collections import Counter
 import matplotlib.pyplot as plt
-import numpy as np
+import sys
 
-def calculate_average(path):
+
+def quest1(path):
 	for i in range(1,6):
 		op=open(path+"file"+str(i)+".txt")
 		cnt=0
@@ -17,21 +17,25 @@ def calculate_average(path):
 			cnt=cnt+1
 		print("File: %s, Number of Genes: %d, Number of Interactions: %d, Average connectivity: %.4f"%(i,len(s),cnt,cnt/len(s)))
 	
-def quest2(file):
-    op=open("../../protlinks/"+file)
+def quest2(files):
+    op=open("../../protlinks/"+files)
     genelist=[]
     for line in op:
         genea,geneb,score=line.split()
         genelist.append(genea)
     dbx=Counter(genelist)
     dby=Counter(dbx.values())
-    a=np.asarray(list(dbx.values()))
-    plt.hist(a,normed=0)
-    plt.savefig("out"+str(file)[4:5]+".png")
+  
+    plt.scatter(list(dby.keys()),list(dby.values()))			
+    plt.ylabel("frequency of node degree")
+    plt.xlabel("node degree")
+    plt.title("out - "+str(files))
+    plt.xscale('log')
+    plt.yscale('log')
+    plt.savefig("out"+str(files)[4:5]+".png")
     
-#calculate_average("./quest1/")    
-[quest2("file"+str(i)+".txt") for i in range (1,7)]
-
+#quest1("../../protlinks/")    
+#quest2(sys.argv[1])
 			
 
 
