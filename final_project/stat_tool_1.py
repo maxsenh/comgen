@@ -26,8 +26,11 @@ def gc_content(file):
 	
 def nucl_freq(file):
 	gc,seq=gc_content(file)
+	sett=["A","C","G","T","N","AA","AC","AT","AG","CA","CC","CT","CG","TA","TC","TT","TG","GA","GC","GT","GG"]
 	print("GC-content: %.4f"%(gc))
-	print("#A = %d/%d"%(seq.count("A"),len(seq)))
+	for nucl in sett:		
+		print("#%s = %d/%d"%(nucl,seq.count("A"),len(seq)))
+	'''
 	print("#C = %d/%d"%(seq.count("C"),len(seq)))
 	print("#T = %d/%d"%(seq.count("T"),len(seq)))
 	print("#G = %d/%d"%(seq.count("G"),len(seq)))
@@ -52,7 +55,20 @@ def nucl_freq(file):
 	print("#GC = %d/%d"%(seq.count("GC"),len(seq)))
 	print("#GT = %d/%d"%(seq.count("GT"),len(seq)))
 	print("#GG = %d/%d"%(seq.count("GG"),len(seq)))
-
-
-gc_content(sys.argv[1])
+	'''
+def aminoacid_freq(file):
+	op=open("./proteomes/"+file)
+	sett="ACDEFGHIKLMNPQRSTVWY"
+	seq=[]
+	for line in op:
+		if line.startswith(">./")==False:
+			seq.append(line.strip())
+	seq="".join(seq)
+	op.close()
+	print("Amino acid frequency:\n")
+	for amino in sett:
+		print("#%s = %d/%d"%(amino,seq.count(str(amino)),len(seq)))
+	
+#gc_content(sys.argv[1])
 nucl_freq(sys.argv[1])
+#aminoacid_freq(sys.argv[1])
