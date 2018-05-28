@@ -27,10 +27,10 @@ def gc_content(file):
 def nucl_freq(file):
     gc,seq=gc_content(file)
     sett=["A","C","G","T","N","AA","AC","AT","AG","CA","CC","CT","CG","TA","TC","TT","TG","GA","GC","GT","GG"]
-    print("GC-content: %.4f"%(gc))
+    #print("GC-content: %.4f"%(gc))
     db_static={}
     for nucl in sett:		
-        print("#%s = %d/%d"%(nucl,seq.count(nucl),len(seq)))
+        #print("#%s = %d/%d"%(nucl,seq.count(nucl),len(seq)))
         db_static[nucl]=seq.count(nucl)/len(seq)
     return db_static,gc
 	
@@ -44,8 +44,8 @@ def aminoacid_freq(file):
 	seq="".join(seq)
 	op.close()
 	print("Amino acid frequency:\n")
-	for amino in sett:
-		print("#%s = %d/%d"%(amino,seq.count(str(amino)),len(seq)))
+	#for amino in sett:
+		#print("#%s = %d/%d"%(amino,seq.count(str(amino)),len(seq)))
 	
 #gc_content(sys.argv[1])
 #nucl_freq(sys.argv[1])

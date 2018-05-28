@@ -12,23 +12,34 @@ from stat_tool_1 import nucl_freq
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
+import math
 
-def dist(file1,file2):
-    db_static1,gc1=nucl_freq(file1)
-    db_static2,gc2=nucl_freq(file2)
-    print(gc1,gc2)
-    print(db_static1)
-    print(db_static2)
-    #3
-def plot_matrix(seq_0, seq_1):
-    mat=np.zeros(shape=(len(seq_0),len(seq_1)))
-    for x in range(0,len(seq_0)):
-        for y in range(0,len(seq_1)):
-            if seq_0[x]==seq_1[y]:
-                mat[x,y]=1
-    print(mat)
-    #plt.matshow(mat)
-    #plt.savefig("out.png")
+def dist(list_of_in):
+    gc_list=[]
+    nucl_freq_list=[]
+    for i in list_of_in:
+        nucl=[]
+        db_static,gc=nucl_freq(str(i)+".fa.txt")
+        nucl_freq_list.append(list(db_static.values()))
+        gc_list.append(gc)
 
-plot_matrix("ABC","ABX")    
-#dist(sys.argv[1],sys.argv[2])
+    #GC-content yo
+    mat_GC=np.zeros(shape=(len(gc_list),len(gc_list)))
+    for x in range(0,len(gc_list)):
+        for y in range(0,len(gc_list)):
+            mat_GC[x,y]=math.sqrt((gc_list[x]-gc_list[y])**2)
+    print([i for i in list_of_in])									
+    print(mat_GC)
+    np.savetxt("gc_content_dist_matrix.grimm",mat_GC)
+    '''
+    #Nucleotide frequency
+    mat_GC=np.zeros(shape=(len(gc_list),len(gc_list)))
+    for x in range(0,len(gc_list)):
+        for y in range(0,len(gc_list)):
+            mat_GC[x,y]=math.sqrt((gc_list[x]-gc_list[y])**2)
+    print([i for i in list_of_in])									
+    print(mat_GC)
+    '''
+				
+#plot_matrix("AB","AB")    
+dist(["16","20","29","44","47"])
