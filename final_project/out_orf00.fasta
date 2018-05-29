@@ -1,10 +1,8 @@
 >file_00_orf_0
-ATGCAT
+ATGCCCATGTATAAT
 >file_00_orf_1
-ATGCTGAAG
+ATGCTGAAATTA
 >file_00_orf_0_rev
 ATGTCT
 >file_00_orf_1_rev
-ATGCATGGC
->file_00_orf_2_rev
-ATGGCT
+ATGGGCATCCTCCTGGCT
