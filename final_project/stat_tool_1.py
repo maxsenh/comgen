@@ -26,13 +26,17 @@ def gc_content(file):
 	
 def nucl_freq(file):
     gc,seq=gc_content(file)
-    sett=["A","C","G","T","N","AA","AC","AT","AG","CA","CC","CT","CG","TA","TC","TT","TG","GA","GC","GT","GG"]
+    sett=["A","C","G","T","N"]
+    sett_duo=["AA","AC","AT","AG","CA","CC","CT","CG","TA","TC","TT","TG","GA","GC","GT","GG"]
     #print("GC-content: %.4f"%(gc))
     db_static={}
+    db_static_duo={}
     for nucl in sett:		
         #print("#%s = %d/%d"%(nucl,seq.count(nucl),len(seq)))
         db_static[nucl]=seq.count(nucl)/len(seq)
-    return db_static,gc
+    for duo in sett_duo:
+        db_static_duo[duo]=seq.count(duo)/len(seq)
+    return db_static,gc,db_static_duo
 	
 def aminoacid_freq(file):
 	op=open("./proteomes/"+file)
@@ -48,5 +52,5 @@ def aminoacid_freq(file):
 		#print("#%s = %d/%d"%(amino,seq.count(str(amino)),len(seq)))
 	
 #gc_content(sys.argv[1])
-#nucl_freq(sys.argv[1])
+#print(nucl_freq(sys.argv[1]))
 #aminoacid_freq(sys.argv[1])
