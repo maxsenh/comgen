@@ -29,10 +29,11 @@ def orf_finder(file):
 					break					
 				else:
 					t2=f				
+                 print(t2)
 					if len(seq[f:f+3])==3:
 						mid.append(seq[f:f+3])
 			joined="".join(mid)
-			if len(joined) > 150 and len(joined) < 1500:
+			if len(joined) > 1:
 				orf_list.append(joined)
 	#3' - 5' (rev)
 	complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A','N':'N'}
@@ -50,9 +51,9 @@ def orf_finder(file):
 					if len(s[f:f+3])==3:
 						mid.append(s[f:f+3])
 			joined="".join(mid)
-			if len(joined) > 150 and len(joined) < 1500:
+			if len(joined) > 1:
 				rev_list.append(joined)
-	print(len(orf_list))
+	print((orf_list))
 	print(len(rev_list))
 	print(len(seq))
 	wr=open("out_orf"+str(file)[:2]+".fasta","w")
