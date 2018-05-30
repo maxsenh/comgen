@@ -1,11 +1,9 @@
 >file_00_orf_0
-ATGCCATGTATAATTAAGACA
->file_00_orf_1
 ATGTATAAT
->file_00_orf_2
+>file_00_orf_1
 ATGATCATGNCTGAAATT
->file_00_orf_3
-ATGNCTGAAATT
+>file_00_orf_2
+ATGCCATGTATAATTAAGACA
 >file_00_orf_0_rev
 ATGATCATGTCT
 >file_00_orf_1_rev
