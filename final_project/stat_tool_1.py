@@ -37,7 +37,7 @@ def nucl_freq(file):
 # Calculating the amino-acid frequency from a given proteome
 ###########################################################################
 def aminoacid_freq(file):
-	op=open("./proteomes/"+file)
+	op=open("./predicted_proteomes/"+file)
 	sett="ACDEFGHIKLMNPQRSTVWY"
 	diamino=[]	
 	for one in sett:
@@ -52,7 +52,7 @@ def aminoacid_freq(file):
 	op.close()
 	print("Amino acid frequency:\n")
 	for amino in sett:
-		print("#%s = %d/%d, %.2f"%(amino,seq.count(str(amino)),len(seq),seq.count(str(amino))/len(seq)))
+		print("%.7f"%(seq.count(str(amino))/len(seq)))
 
 ###########################################################################
 # Computes diamino-frequency from given proteome
@@ -82,7 +82,7 @@ def freq_amino(listin):
 	
 #gc_content(sys.argv[1])
 #print(nucl_freq(sys.argv[1]))
-#aminoacid_freq(sys.argv[1])
+aminoacid_freq(sys.argv[1])
 #freq_amino(["16","20","29","44","47"])
 	
 ###########################################################################
