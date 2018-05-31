@@ -10,14 +10,11 @@ import sys
 
 def orf_finder(file):
 	op=open("./genomes/"+file)
-	title=""
 	seq=""
 	stop=["TGA","TAA","TAG"]
 	orf_list=[]	
 	for line in op:
-		if line.startswith(">./"):
-			title=line.strip()
-		else:
+		if not line.startswith(">./"):
 			seq=line.strip()
 			
 	#5' - 3' 
@@ -34,13 +31,14 @@ def orf_finder(file):
 					if len(seq[f:f+3])==3:
 						mid.append(seq[f:f+3])
 				joined="".join(mid)
-				if len(joined) > 300:# and len(joined) < 1500:
+				if len(joined) > 150 and len(joined) < 1500:
 					orf_list.append(joined)
 					
 	#3' - 5' (rev)
 	complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A','N':'N'}
 	s=(''.join([complement[base] for base in seq[::-1]]))
 	rev_list=[]
+	
 	for j2 in range(3):
 		t2=0		
 		for i2 in range(j2,len(s)-1,3):
@@ -54,7 +52,7 @@ def orf_finder(file):
 						if len(s[f2:f2+3])==3:
 							mid.append(s[f2:f2+3])
 				joined="".join(mid)
-				if len(joined) > 300:
+				if len(joined) > 150 and len(joined) < 1500:
 					rev_list.append(joined)
 	print(len(orf_list))
 	print(len(rev_list))
@@ -70,4 +68,5 @@ def orf_finder(file):
 		wr.write(">file_"+str(file)[:2]+"_orf_"+str(w_rev)+"_rev\n")
 		wr.write(rev_list[w_rev]+"\n")
 	wr.close()
+	
 orf_finder(sys.argv[1])

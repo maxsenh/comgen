@@ -32,5 +32,5 @@ def freq_amino(listin):
 		what.append(listofone)
 	print(what)
 	print(len(what))	
-freq_amino(["00"])#,"16","20","29","44","47"])		
-#translate_orf(["00","16","20","29","44","47"])
+#freq_amino(["00"])#,"16","20","29","44","47"])		
+translate_orf(["00","16","20","29","44","47"])
