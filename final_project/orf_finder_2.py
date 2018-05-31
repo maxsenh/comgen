@@ -34,7 +34,7 @@ def orf_finder(file):
 					if len(seq[f:f+3])==3:
 						mid.append(seq[f:f+3])
 				joined="".join(mid)
-				if len(joined) > 100 and len(joined) < 1500:
+				if len(joined) > 300:# and len(joined) < 1500:
 					orf_list.append(joined)
 					
 	#3' - 5' (rev)
@@ -54,7 +54,7 @@ def orf_finder(file):
 						if len(s[f2:f2+3])==3:
 							mid.append(s[f2:f2+3])
 				joined="".join(mid)
-				if len(joined) > 100 and len(joined) < 1500:
+				if len(joined) > 300:
 					rev_list.append(joined)
 	print(len(orf_list))
 	print(len(rev_list))

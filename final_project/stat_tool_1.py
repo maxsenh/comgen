@@ -37,10 +37,16 @@ def nucl_freq(file):
     for duo in sett_duo:
         db_static_duo[duo]=seq.count(duo)/len(seq)
     return db_static,gc,db_static_duo
-	
+
+"""				
 def aminoacid_freq(file):
 	op=open("./proteomes/"+file)
 	sett="ACDEFGHIKLMNPQRSTVWY"
+	diamino=[]	
+	for one in sett:
+		for two in sett:
+			diamino.append(str(one)+str(two))
+	
 	seq=[]
 	for line in op:
 		if line.startswith(">./")==False:
@@ -48,8 +54,10 @@ def aminoacid_freq(file):
 	seq="".join(seq)
 	op.close()
 	print("Amino acid frequency:\n")
-	#for amino in sett:
+	for amino in sett:
+		
 		#print("#%s = %d/%d"%(amino,seq.count(str(amino)),len(seq)))
+"""
 	
 #gc_content(sys.argv[1])
 #print(nucl_freq(sys.argv[1]))
