@@ -52,7 +52,7 @@ def aminoacid_freq(file):
 	op.close()
 	print("Amino acid frequency:\n")
 	for amino in sett:
-		print("#%s = %d/%d"%(amino,seq.count(str(amino)),len(seq)))
+		print("#%s = %d/%d, %.2f"%(amino,seq.count(str(amino)),len(seq),seq.count(str(amino))/len(seq)))
 
 ###########################################################################
 # Computes diamino-frequency from given proteome
@@ -79,12 +79,11 @@ def freq_amino(listin):
 ###########################################################################
 # Functions
 ###########################################################################	
-
 	
 #gc_content(sys.argv[1])
 #print(nucl_freq(sys.argv[1]))
 #aminoacid_freq(sys.argv[1])
-freq_amino(["16","20","29","44","47"])
+#freq_amino(["16","20","29","44","47"])
 	
 ###########################################################################
 
