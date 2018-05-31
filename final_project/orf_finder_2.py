@@ -1,40 +1,47 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu May 24 15:20:07 2018
 
-@author: u2362
-"""
+# Prediction of ORFs with given genomes 
+###########################################################################
 import sys
 
-#2. ORF-finder
+###########################################################################
+# ORF-finder
+###########################################################################
 
 def orf_finder(file):
+	
+	#stripping the sequence from the title
 	op=open("./genomes/"+file)
 	seq=""
-	stop=["TGA","TAA","TAG"]
+	stop=["TGA","TAA","TAG"]	#stop codons
 	orf_list=[]	
 	for line in op:
 		if not line.startswith(">./"):
 			seq=line.strip()
-			
-	#5' - 3' 
-	for j in range(3):
-		t=0	
-		for i in range(j,len(seq)-1,3):
-			if seq[i-1:i+2] == "ATG" and i > t: 					
+	
+	#finding ORFs on the template strand from 5´->3´
+	for j in range(3):		#creating three different reading frames
+		t=0				#is used to remove the overlapps
+		for i in range(j,len(seq)-1,3):		#sliding window of 3
+			if seq[i-1:i+2] == "ATG" and i > t: 		#finding start-codon			
 				mid=[]
-				for f in range(i-1,len(seq),3):		
+				for f in range(i-1,len(seq),3):		#appending to list
 					if seq[f:f+3] in stop:
-						break					
+						break      #break if stop-codon is encountered
 					else:
 						t=f				
 					if len(seq[f:f+3])==3:
 						mid.append(seq[f:f+3])
 				joined="".join(mid)
+				#if found sequence is within the size limitation it will
+				#be added to the master list orf_list
+				#for prokaryots:
+				#if len(joined) > 300:
+				#for eukaryotes:
+				#if len(joined) > 150 and len(joined) < 1500:
 				if len(joined) > 150 and len(joined) < 1500:
 					orf_list.append(joined)
 					
-	#3' - 5' (rev)
+	#the same is done with the reverse strand
 	complement = {'A': 'T', 'C': 'G', 'G': 'C', 'T': 'A','N':'N'}
 	s=(''.join([complement[base] for base in seq[::-1]]))
 	rev_list=[]
@@ -54,12 +61,12 @@ def orf_finder(file):
 				joined="".join(mid)
 				if len(joined) > 150 and len(joined) < 1500:
 					rev_list.append(joined)
+    #printing to test the number of found orfs
 	print(len(orf_list))
 	print(len(rev_list))
 	print(len(seq))
-	print(s.count("ATG"))
-	print(seq.count("ATG"))
 	
+	#writing the orfs from both strands in a file
 	wr=open("out_orf"+str(file)[:2]+".fasta","w")
 	for w in range(len(orf_list)):
 		wr.write(">file_"+str(file)[:2]+"_orf_"+str(w)+"\n")
@@ -69,4 +76,13 @@ def orf_finder(file):
 		wr.write(rev_list[w_rev]+"\n")
 	wr.close()
 	
+###########################################################################
+# Functions
+###########################################################################
+
 orf_finder(sys.argv[1])
+
+###########################################################################
+# 
+###########################################################################
+
