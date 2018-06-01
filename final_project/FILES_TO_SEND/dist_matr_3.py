@@ -7,11 +7,14 @@ matplotlib.use("Agg")
 from stat_tool_1 import nucl_freq
 import numpy as np
 import math
+import sys
 
 ###########################################################################
 # Computing of distance between two different matrices
 ###########################################################################
 def nucl(one,two):
+    print(len(one))
+    print(len(two))
     return math.sqrt(sum([(one[i]-two[i])**2 for i in range (len(one))]))
 
 ###########################################################################
@@ -22,15 +25,16 @@ def dist(list_of_in):
     gc_list=[]
     nucl_freq_list=[]
     nucl_freq_duo=[]
-	
 	#using the function "nucl_freq" from the statistic tool to obtain frequency
 	#of each of the genomes
     for i in list_of_in:
-        db_static,gc,db_static_duo=nucl_freq(str(i)+".fa.txt")
+        db_static,gc,db_static_duo=nucl_freq(i)
         nucl_freq_list.append(list(db_static.values()))
         gc_list.append(gc)
         nucl_freq_duo.append(list(db_static_duo.values()))
-
+    print(len(gc_list))
+    print(len(nucl_freq_list))
+    print(len(nucl_freq_duo))
 								
     #Distance matrix for GC-content
     #create numpy matrix
@@ -49,6 +53,7 @@ def dist(list_of_in):
     #Distance matrix for nucleotide frequency
     #create numpy matrix
     mat_dist=np.zeros(shape=(len(nucl_freq_list),len(nucl_freq_list)))
+    print(mat_dist)
     for x in range(0,len(nucl_freq_list)):
         for y in range(0,len(nucl_freq_list)):
 									
@@ -59,7 +64,6 @@ def dist(list_of_in):
     print("solo nucl\n",mat_dist)
     np.savetxt("nucl_freq_dist_matrix.grimm",mat_dist,fmt="%.5f")
 
-    
     #Distance matrix for dinucleotide frequency
     #create numpy matrix
     mat_dist_duo=np.zeros(shape=(len(nucl_freq_duo),len(nucl_freq_duo)))
@@ -77,7 +81,7 @@ def dist(list_of_in):
 # Functions
 ###########################################################################
 				
-dist(["16","20","29","44","47"])
+dist([sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5]])
 
 ###########################################################################
 #

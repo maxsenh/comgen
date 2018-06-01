@@ -80,7 +80,7 @@ if __name__ == "__main__":
 	#Run this for ORF-predition of given input genome 
 	#Input: input genome file (which should be in fasta format) 
 	#and desired output file (which will be in fasta format)
-	orf_finder(sys.argv[1],sys.argv[2])
+	#orf_finder(sys.argv[1],sys.argv[2])
 
 ###########################################################################
 # 

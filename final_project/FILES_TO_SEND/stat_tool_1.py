@@ -23,7 +23,7 @@ def gc_content(infile):
 def nucl_freq(infile):
     gc,seq=gc_content(infile)
     sett=str("".join(set(seq)))
-    sett_duo=str("".join(set(seq)))
+    sett_duo=[str(a)+str(b) for a in sett for b in sett]
     db_static={}
     db_static_duo={}
     for nucl in sett:		
@@ -54,7 +54,6 @@ def aminoacid_freq(infile,outfile):
 	seq="".join(seq)
 	op.close()
 	sett=str("".join(set(seq)))
-	print(sett,len(sett))
 	with open(outfile,"w") as ou:
 		ou.write("Amino acid frequency:\n")
 		#calculating amino acid frequency
@@ -93,15 +92,14 @@ def freq_amino(listin):
 ###########################################################################
 # Functions
 ###########################################################################	
-if __name__ == "__main__":
+#if __name__ == "__main__":
 	#Run this for (di)nucleotide frequency, input has to be the desired
 	#input genome file and output file
 	#write_nucl(sys.argv[1],sys.argv[2])
 
 	#Run this for (di)amino acid frequency, input has to be the desired
 	#input proteome file and output file
-	aminoacid_freq(sys.argv[1],sys.argv[2])
-
+	#aminoacid_freq(sys.argv[1],sys.argv[2])
 
 #-----Test/helping scripts------
 	#gc_content(sys.argv[1])
