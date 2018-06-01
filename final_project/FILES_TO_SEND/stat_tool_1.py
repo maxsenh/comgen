@@ -22,7 +22,7 @@ def gc_content(infile):
 ###########################################################################
 def nucl_freq(infile):
     gc,seq=gc_content(infile)
-    sett=str("".join(set(seq)))
+    sett="ACGT"
     sett_duo=[str(a)+str(b) for a in sett for b in sett]
     db_static={}
     db_static_duo={}
@@ -92,7 +92,7 @@ def freq_amino(listin):
 ###########################################################################
 # Functions
 ###########################################################################	
-#if __name__ == "__main__":
+if __name__ == "__main__":
 	#Run this for (di)nucleotide frequency, input has to be the desired
 	#input genome file and output file
 	#write_nucl(sys.argv[1],sys.argv[2])
@@ -103,7 +103,7 @@ def freq_amino(listin):
 
 #-----Test/helping scripts------
 	#gc_content(sys.argv[1])
-	#nucl_freq(sys.argv[1])
+    nucl_freq(sys.argv[1])
 	#freq_amino(["16","20","29","44","47"])
 	
 ###########################################################################

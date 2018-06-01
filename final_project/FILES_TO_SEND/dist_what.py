@@ -26,7 +26,7 @@ def dist(list_of_in):
 	#using the function "nucl_freq" from the statistic tool to obtain frequency
 	#of each of the genomes
     for i in list_of_in:
-        db_static,gc,db_static_duo=nucl_freq(str(i)+".fa.txt")
+        db_static,gc,db_static_duo=nucl_freq("../genomes/"+str(i)+".fa.txt")
         nucl_freq_list.append(list(db_static.values()))
         gc_list.append(gc)
         nucl_freq_duo.append(list(db_static_duo.values()))
