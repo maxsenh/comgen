@@ -69,9 +69,12 @@ def dist(list_of_in):
 ###########################################################################
 # Functions
 ###########################################################################
-				
-dist([sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5]])
-
+if __name__ == "__main__":
+    #To call the function please add the 5 genomes when running the script in
+    #the terminal as such:
+    #python3 dist_matr_3.py genome1 genome2 genome3 genome4 genome5
+    
+    dist([sys.argv[1],sys.argv[2],sys.argv[3],sys.argv[4],sys.argv[5]])
 ###########################################################################
 #
 ###########################################################################

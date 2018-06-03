@@ -88,22 +88,24 @@ def freq_amino(listin):
 		outt=open("./diamino_out_"+str(i)+".txt","w")
 		[outt.write("#%s = %.9f\n"%(listofnames[i],listofone[i])) for i in range(len(listofone))]
 		outt.close()
-				
+	
+
 ###########################################################################
 # Functions
 ###########################################################################	
 if __name__ == "__main__":
-	#Run this for (di)nucleotide frequency, input has to be the desired
+	#Both functions run!!
+    # for the first function you have to type in the desired genome and output file
+    # for the second function you have to type in the desired proteome and output file
 	#input genome file and output file
-	#write_nucl(sys.argv[1],sys.argv[2])
+    write_nucl(sys.argv[1],sys.argv[2])
 
-	#Run this for (di)amino acid frequency, input has to be the desired
-	#input proteome file and output file
-	#aminoacid_freq(sys.argv[1],sys.argv[2])
+    aminoacid_freq(sys.argv[3],sys.argv[4])
+   
 
 #-----Test/helping scripts------
 	#gc_content(sys.argv[1])
-    nucl_freq(sys.argv[1])
+    #nucl_freq(sys.argv[1])
 	#freq_amino(["16","20","29","44","47"])
 	
 ###########################################################################
